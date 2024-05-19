@@ -1,0 +1,11 @@
+C:\Users\Vitor Hugo\source\repos\DataAnnotations\Utils.DataAnnotations\bin\Debug\net7.0\DataAnnotations.Utils.deps.json
+C:\Users\Vitor Hugo\source\repos\DataAnnotations\Utils.DataAnnotations\bin\Debug\net7.0\DataAnnotations.Utils.dll
+C:\Users\Vitor Hugo\source\repos\DataAnnotations\Utils.DataAnnotations\bin\Debug\net7.0\DataAnnotations.Utils.pdb
+C:\Users\Vitor Hugo\source\repos\DataAnnotations\Utils.DataAnnotations\obj\Debug\net7.0\DataAnnotations.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor Hugo\source\repos\DataAnnotations\Utils.DataAnnotations\obj\Debug\net7.0\DataAnnotations.Utils.AssemblyInfoInputs.cache
+C:\Users\Vitor Hugo\source\repos\DataAnnotations\Utils.DataAnnotations\obj\Debug\net7.0\DataAnnotations.Utils.AssemblyInfo.cs
+C:\Users\Vitor Hugo\source\repos\DataAnnotations\Utils.DataAnnotations\obj\Debug\net7.0\DataAnnotations.Utils.csproj.CoreCompileInputs.cache
+C:\Users\Vitor Hugo\source\repos\DataAnnotations\Utils.DataAnnotations\obj\Debug\net7.0\DataAnnotations.Utils.dll
+C:\Users\Vitor Hugo\source\repos\DataAnnotations\Utils.DataAnnotations\obj\Debug\net7.0\refint\DataAnnotations.Utils.dll
+C:\Users\Vitor Hugo\source\repos\DataAnnotations\Utils.DataAnnotations\obj\Debug\net7.0\DataAnnotations.Utils.pdb
+C:\Users\Vitor Hugo\source\repos\DataAnnotations\Utils.DataAnnotations\obj\Debug\net7.0\ref\DataAnnotations.Utils.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DataAnnotations.Domain/1.0.0": {
+        "runtime": {
+          "DataAnnotations.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataAnnotations.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

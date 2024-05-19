@@ -1,0 +1,15 @@
+C:\Users\Vitor Hugo\source\repos\DataAnnotations\DataAnnotations.Persistence\bin\Debug\net7.0\DataAnnotations.Persistence.deps.json
+C:\Users\Vitor Hugo\source\repos\DataAnnotations\DataAnnotations.Persistence\bin\Debug\net7.0\DataAnnotations.Persistence.dll
+C:\Users\Vitor Hugo\source\repos\DataAnnotations\DataAnnotations.Persistence\bin\Debug\net7.0\DataAnnotations.Persistence.pdb
+C:\Users\Vitor Hugo\source\repos\DataAnnotations\DataAnnotations.Persistence\bin\Debug\net7.0\DataAnnotations.Domain.dll
+C:\Users\Vitor Hugo\source\repos\DataAnnotations\DataAnnotations.Persistence\bin\Debug\net7.0\DataAnnotations.Domain.pdb
+C:\Users\Vitor Hugo\source\repos\DataAnnotations\DataAnnotations.Persistence\obj\Debug\net7.0\DataAnnotations.Persistence.csproj.AssemblyReference.cache
+C:\Users\Vitor Hugo\source\repos\DataAnnotations\DataAnnotations.Persistence\obj\Debug\net7.0\DataAnnotations.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor Hugo\source\repos\DataAnnotations\DataAnnotations.Persistence\obj\Debug\net7.0\DataAnnotations.Persistence.AssemblyInfoInputs.cache
+C:\Users\Vitor Hugo\source\repos\DataAnnotations\DataAnnotations.Persistence\obj\Debug\net7.0\DataAnnotations.Persistence.AssemblyInfo.cs
+C:\Users\Vitor Hugo\source\repos\DataAnnotations\DataAnnotations.Persistence\obj\Debug\net7.0\DataAnnotations.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Vitor Hugo\source\repos\DataAnnotations\DataAnnotations.Persistence\obj\Debug\net7.0\DataAnnotations.Persistence.csproj.CopyComplete
+C:\Users\Vitor Hugo\source\repos\DataAnnotations\DataAnnotations.Persistence\obj\Debug\net7.0\DataAnnotations.Persistence.dll
+C:\Users\Vitor Hugo\source\repos\DataAnnotations\DataAnnotations.Persistence\obj\Debug\net7.0\refint\DataAnnotations.Persistence.dll
+C:\Users\Vitor Hugo\source\repos\DataAnnotations\DataAnnotations.Persistence\obj\Debug\net7.0\DataAnnotations.Persistence.pdb
+C:\Users\Vitor Hugo\source\repos\DataAnnotations\DataAnnotations.Persistence\obj\Debug\net7.0\ref\DataAnnotations.Persistence.dll

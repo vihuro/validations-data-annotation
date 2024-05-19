@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>1d978e49-7d9e-48f3-a394-00f18f232dec</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.16" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.19.5" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DataAnnotations.Application\DataAnnotations.Application.csproj" />
+    <ProjectReference Include="..\DataAnnotations.Domain.Aux\DataAnnotations.Domain.Aux.csproj" />
+    <ProjectReference Include="..\DataAnnotations.Persistence\DataAnnotations.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>
